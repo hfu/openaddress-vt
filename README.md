@@ -11,3 +11,9 @@ $ mbview openaddress-vt.mbtiles
 ```
 
 enjoy!
+
+## why did I made this?
+just for fun and practice. But I also feel that binary vector tiles is a great way to disseminate the data, too.
+
+# see also
+- [mbview](https://github.com/mapbox/mbview)
