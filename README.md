@@ -4,6 +4,10 @@ binary vector tiles generated from openaddress
 my codes are unlicensed. you may need to see the license of openaddress data, too.
 
 ## how to use
+### online
+Access https://hfu.github.io/openaddress-vt/
+
+### offline
 just download this repository and:
 ```sh
 $ export MAPBOX_ACCESS_TOKEN='pk.eyJ1IjoiaGZ1IiwiYSI6ImlRSGJVUTAifQ.rTx380smyvPc1gUfZv1cmw' # use your key
